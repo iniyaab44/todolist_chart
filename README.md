@@ -28,8 +28,10 @@ A comprehensive task management system with user authentication, task tracking, 
    - Update the database credentials:
      ```php
      $host = 'localhost';        // Your database host
-
-DEMO Link - https://sandramlworks.liveblog365.com/auth/register.php?i=1     
      $dbname = 'your_database';  // Your database name
+
+DEMO Link - https://sandramlworks.liveblog365.com/auth/register.php?i=1   
+
+     
      $username = 'your_username'; // Your database username
      $password = 'your_password'; // Your database password
